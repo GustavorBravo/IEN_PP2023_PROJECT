@@ -1,2 +1,2 @@
 # IEN_PP2023_PROJECT
-Proyecto de Practica Profesionalizante 2023
+Proyecto de Práctica Profesionalizante 2023
