@@ -15,7 +15,6 @@ C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENServic
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.AssemblyInfo.cs
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.csproj.CoreCompileInputs.cache
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.sourcelink.json
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets.build.json
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets.development.json
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\staticwebassets\msbuild.InstitutoIENServices.Api.Microsoft.AspNetCore.StaticWebAssets.props
@@ -73,3 +72,7 @@ C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENServic
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll

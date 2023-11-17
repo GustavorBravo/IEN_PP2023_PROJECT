@@ -1,10 +1,8 @@
-﻿namespace InstitutoIENService.Core.Entities
+﻿namespace InstitutoIENService.Core.Entities;
+
+public partial class Country : BaseEntity
 {
-    public class Country
-    {
-        public int ID { get; set; }
-        public string CountryName { get; set; }
-        public DateTime RegistrationDate { get; set; }
-        public DateTime UpdateDate { get; set; }
-    }
+    public string Name { get; set; } = null!;
+
+    public virtual ICollection<Province> Provinces { get; set; } = new List<Province>();
 }

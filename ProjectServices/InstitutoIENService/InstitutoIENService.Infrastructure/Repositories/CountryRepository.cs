@@ -2,11 +2,6 @@
 using InstitutoIENService.Core.Interfaces;
 using InstitutoIENService.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace InstitutoIENService.Infrastructure.Repositories
 {
@@ -17,9 +12,9 @@ namespace InstitutoIENService.Infrastructure.Repositories
         {
             _context = context;
         }
-        public async Task<IEnumerable<Paise>> GetCountries()
+        public async Task<IEnumerable<Country>> GetCountries()
         {
-            var countries = await _context.Paises.ToListAsync();
+            var countries = await _context.Countries.ToListAsync();
             return countries;
         }
     }

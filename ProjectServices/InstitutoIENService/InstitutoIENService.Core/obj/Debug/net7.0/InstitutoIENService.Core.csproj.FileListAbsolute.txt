@@ -5,7 +5,6 @@ C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENServic
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.AssemblyInfoInputs.cache
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.AssemblyInfo.cs
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.csproj.CoreCompileInputs.cache
-C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.sourcelink.json
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.dll
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\refint\InstitutoIENService.Core.dll
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENService.Core\obj\Debug\net7.0\InstitutoIENService.Core.pdb

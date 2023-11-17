@@ -1,5 +1,4 @@
 ﻿using InstitutoIENService.Core.Interfaces;
-using InstitutoIENService.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace InstitutoIENServices.Api.Controllers

@@ -1,16 +1,11 @@
 ﻿namespace InstitutoIENService.Core.Entities;
 
-public partial class Role
+public partial class Role: BaseEntity
 {
-    public int Id { get; set; }
 
-    public string DeRol { get; set; } = null!;
+    public string RoleDescription { get; set; } = null!;
 
-    public DateTime FeRegistro { get; set; }
+    public virtual ICollection<OperationRole> OperationsRoles { get; set; } = new List<OperationRole>();
 
-    public DateTime? FeModificacion { get; set; }
-
-    public virtual ICollection<OperacionesRole> OperacionesRoles { get; set; } = new List<OperacionesRole>();
-
-    public virtual ICollection<Usuario> Usuarios { get; set; } = new List<Usuario>();
+    public virtual ICollection<User> Users { get; set; } = new List<User>();
 }

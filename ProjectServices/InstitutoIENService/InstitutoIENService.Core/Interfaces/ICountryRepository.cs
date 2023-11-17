@@ -4,7 +4,7 @@ namespace InstitutoIENService.Core.Interfaces
 {
     public interface ICountryRepository
     {
-        Task<IEnumerable<Paise>> GetCountries();
+        Task<IEnumerable<Country>> GetCountries();
     }
 }
 
