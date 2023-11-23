@@ -1,3 +1,6 @@
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using InstitutoIENService.Infrastructure.Filters;
 using InstitutoIENServices.Api;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,8 +15,28 @@ builder.Services.AddControllers().AddNewtonsoftJson(option =>
     option.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
 });
 
+
+
 //automapper
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+//validation filter
+builder.Services.AddMvc(option =>
+{
+    option.Filters.Add<ValidationFilter>();
+});
+    
+    
+//    .AddFluentValidation(option =>
+//{
+//    option.RegisterValidatorsFromAssemblies(AppDomain.CurrentDomain.GetAssemblies());
+//});
+
+// After migration:
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddFluentValidationClientsideAdapters();
+builder.Services.AddValidatorsFromAssemblies(AppDomain.CurrentDomain.GetAssemblies());// AddValidatorsFromAssemblyContaining<MyValidator>();
+
 
 var app = builder.Build();
 

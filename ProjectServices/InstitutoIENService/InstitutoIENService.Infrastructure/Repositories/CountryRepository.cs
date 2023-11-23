@@ -17,6 +17,7 @@ namespace InstitutoIENService.Infrastructure.Repositories
             var countries = await _context.Countries.ToListAsync();
             return countries;
         }
+         
     }
 }
 

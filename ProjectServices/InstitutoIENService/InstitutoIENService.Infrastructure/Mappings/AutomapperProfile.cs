@@ -10,6 +10,9 @@ namespace InstitutoIENService.Infrastructure.Mappings
         {
             CreateMap<Administrative, AdministrativeDto>();
             CreateMap<AdministrativeDto, Administrative>();
+
+            CreateMap<Country, CountryDto>();
+            CreateMap<CountryDto, Country>();
         }
     }
 }

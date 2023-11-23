@@ -76,3 +76,14 @@ C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENServic
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Datos\IEN\Proyecto 2023\IEN_PP2023_PROJECT\ProjectServices\InstitutoIENService\InstitutoIENServices.Api\obj\Debug\net7.0\InstitutoIENServices.Api.MvcApplicationPartsAssemblyInfo.cs
